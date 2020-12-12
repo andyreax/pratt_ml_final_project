@@ -1,5 +1,2 @@
-# ignore ipynb checkpoints
 .ipynb_checkpoints/
-
-# ignore mac system files
 .DS_Store
